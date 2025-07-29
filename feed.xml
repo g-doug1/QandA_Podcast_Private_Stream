@@ -15,11 +15,11 @@
       <description>episode description</description>
       <enclosure 
         url="https://github.com/g-doug1/QandA_Podcast_Private_Stream/blob/main/audio/1975_1_5.mp3" 
-        length="37465557" 
+        length="37629520" 
         type="audio/mpeg"/>
       <guid>ep01</guid>
       <pubDate>Tue, 30 Jul 2024 17:00:00 GMT</pubDate>
-      <itunes:duration>1:18:02</itunes:duration>
+      <itunes:duration>1:18:24</itunes:duration>
     </item>
 
 
