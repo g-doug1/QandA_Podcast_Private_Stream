@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Your Podcast Title</title>
+    <link>https://github.com/g-doug1/QandA_Podcast_Private_Stream/audio/</link>
+    <language>en-us</language>
+    <itunes:author>Your Name</itunes:author>
+    <description>Your description here.</description>
+    <itunes:explicit>no</itunes:explicit>
+    <item>
+      <title>1975_1_5</title>
+      <description>1975_1_5</description>
+      <enclosure url="https://github.com/g-doug1/QandA_Podcast_Private_Stream/audio/1975_1_5.mp3" length="37465557" type="audio/mpeg"/>
+      <guid>1975_1_5.mp3</guid>
+      <pubDate>Fri, 07 Jul 2023 19:47:54 -0000</pubDate>
+      <itunes:duration>1:18:01</itunes:duration>
+    </item>
+    <item>
+      <title>1977_1_23</title>
+      <description>1977_1_23</description>
+      <enclosure url="https://github.com/g-doug1/QandA_Podcast_Private_Stream/audio/1977_1_23.mp3" length="31735161" type="audio/mpeg"/>
+      <guid>1977_1_23.mp3</guid>
+      <pubDate>Fri, 07 Jul 2023 19:50:22 -0000</pubDate>
+      <itunes:duration>1:06:05</itunes:duration>
+    </item>
+
+  </channel>
+</rss>
