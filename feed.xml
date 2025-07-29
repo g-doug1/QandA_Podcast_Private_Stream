@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Private_QandA_Podcast</title>
+    <link>https://github.com/g-doug1/QandA_Podcast_Private_Stream</link>
+    <language>en-us</language>
+    <itunes:author>GD</itunes:author>
+    <description>This is a RSS feed containing legally downloaded files created exclusively for the personal use of the of the same.</description>
+    <itunes:explicit>no</itunes:explicit>
+
+
+    <item>
+      <title>1975_1_5</title>
+      <description>episode description</description>
+      <enclosure 
+        url="https://github.com/g-doug1/QandA_Podcast_Private_Stream/blob/main/Q%26A%201975_1_5.mp3" 
+        length="37465557" 
+        type="audio/mpeg"/>
+      <guid>ep01</guid>
+      <pubDate>Tue, 30 Jul 2024 17:00:00 GMT</pubDate>
+      <itunes:duration>1:18:02</itunes:duration>
+    </item>
+
+
+  </channel>
+</rss>
