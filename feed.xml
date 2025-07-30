@@ -3,42 +3,42 @@
      xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
     <title>Your Podcast Title</title>
-    <link>https://github.com/g-doug1/QandA_Podcast_Private_Stream/</link>
+    <link>https://f004.backblazeb2.com/file/QandA-Podcast-Private-Stream/</link>
     <language>en-us</language>
     <itunes:author>Your Name</itunes:author>
     <description>Your podcast description.</description>
     <itunes:explicit>no</itunes:explicit>
     
     <item>
-      <title>new1975_1_5</title>
-      <description>new host 1975_1_5</description>
+      <title>1975_1_5</title>
+      <description>1975_1_5</description>
       <enclosure url="https://f004.backblazeb2.com/file/QandA-Podcast-Private-Stream/1975_1_5.mp3" length="37629520" type="audio/mpeg"/>
       <guid>1975_1_5.mp3</guid>
-      <pubDate>Tue, 29 Jul 2025 07:04:54 GMT</pubDate>
+      <pubDate>Wed, 30 Jul 2025 00:53:32 GMT</pubDate>
       <itunes:duration>1:18:23</itunes:duration>
     </item>
     <item>
       <title>1977_1_23</title>
       <description>1977_1_23</description>
-      <enclosure url="https://github.com/g-doug1/QandA_Podcast_Private_Stream/audio/1977_1_23.mp3" length="31872134" type="audio/mpeg"/>
+      <enclosure url="https://f004.backblazeb2.com/file/QandA-Podcast-Private-Stream/1977_1_23.mp3" length="31872134" type="audio/mpeg"/>
       <guid>1977_1_23.mp3</guid>
-      <pubDate>Tue, 29 Jul 2025 07:05:31 GMT</pubDate>
+      <pubDate>Wed, 30 Jul 2025 00:54:06 GMT</pubDate>
       <itunes:duration>1:06:23</itunes:duration>
     </item>
     <item>
       <title>Free_Test_Data_100KB_MP3</title>
       <description>Free_Test_Data_100KB_MP3</description>
-      <enclosure url="https://github.com/g-doug1/QandA_Podcast_Private_Stream/audio/Free_Test_Data_100KB_MP3.mp3" length="32225" type="audio/mpeg"/>
+      <enclosure url="https://f004.backblazeb2.com/file/QandA-Podcast-Private-Stream/Free_Test_Data_100KB_MP3.mp3" length="32225" type="audio/mpeg"/>
       <guid>Free_Test_Data_100KB_MP3.mp3</guid>
-      <pubDate>Tue, 29 Jul 2025 07:05:31 GMT</pubDate>
+      <pubDate>Wed, 30 Jul 2025 00:54:06 GMT</pubDate>
       <itunes:duration>0:00:03</itunes:duration>
     </item>
     <item>
       <title>Free_Test_Data_1OMB_MP3</title>
       <description>Free_Test_Data_1OMB_MP3</description>
-      <enclosure url="https://github.com/g-doug1/QandA_Podcast_Private_Stream/audio/Free_Test_Data_1OMB_MP3.mp3" length="3468268" type="audio/mpeg"/>
+      <enclosure url="https://f004.backblazeb2.com/file/QandA-Podcast-Private-Stream/Free_Test_Data_1OMB_MP3.mp3" length="3468268" type="audio/mpeg"/>
       <guid>Free_Test_Data_1OMB_MP3.mp3</guid>
-      <pubDate>Tue, 29 Jul 2025 07:05:34 GMT</pubDate>
+      <pubDate>Wed, 30 Jul 2025 00:54:09 GMT</pubDate>
       <itunes:duration>0:07:13</itunes:duration>
     </item>
   </channel>
